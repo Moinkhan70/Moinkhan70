@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**Moinkhan70/Moinkhan70** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, My name is Moin khan. I'm a web designer and developer.
 
 Here are some ideas to get you started:
 
